@@ -1,6 +1,5 @@
 
 require_relative "data_ml.class"
-require          'colorize'
 
 THETA_0 = 0
 THETA_1 = 1
